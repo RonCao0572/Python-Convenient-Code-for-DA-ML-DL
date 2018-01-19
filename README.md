@@ -1,2 +1,1 @@
-# Python-code-convenient
-Just some python codes for me to reuse when fetachable
+# Just reposit some resuable codes for myself while doing DA ML DL stuff
